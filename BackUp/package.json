@@ -1,24 +1,8 @@
 {
-  "name": "node-tutorial",
-  "version": "1.0.0",
-  "description": "tutorial video",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "lint": "eslint ."
-  },
-  "keywords": [
-    "tutorial"
-  ],
-  "author": "Mohit Kumar",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^9.33.0",
-    "nodemon": "^2.0.22"
-  },
   "dependencies": {
-    "express": "^5.1.0"
+    "axios": "^1.11.0",
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.13",
+    "lodash": "^4.17.21"
   }
 }
