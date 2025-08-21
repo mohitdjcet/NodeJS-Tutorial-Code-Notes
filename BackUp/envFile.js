@@ -1,0 +1,1 @@
+globalThis.console.log("Hello from envFile.js");
