@@ -1,3 +1,1 @@
-Hello, NodeJS Sych 
-This is an appended text.
-This is an appended text.
+Name: mohit, Email: mohit@test.com
